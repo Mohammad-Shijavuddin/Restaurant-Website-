@@ -413,7 +413,7 @@ body {
     position: relative;
     height: 100vh;
     width: 100%;
-    background: url('../images/hero.jpg') center center/cover no-repeat;
+    background: url('../hero.jpg') center center/cover no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -564,4 +564,5 @@ body {
     margin-bottom: 5px;
     color: #333;
 }
+
 
